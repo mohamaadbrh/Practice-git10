@@ -1,0 +1,3 @@
+C:/Users/Jalal/Documents/GitHub/Practice-git10/cmake-build-debug/CMakeFiles/Practice_git10.dir
+C:/Users/Jalal/Documents/GitHub/Practice-git10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jalal/Documents/GitHub/Practice-git10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
