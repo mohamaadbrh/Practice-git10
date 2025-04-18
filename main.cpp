@@ -5,7 +5,7 @@ void chap(){
 }
 
 int main() {
-    cout << "Hellooo, World!" << endl;
+    cout << "salamm, World!" << endl;
     chap();
     return 0;
 }
